@@ -1,2 +1,3 @@
-# hl_bootcamp
-Stuff I wrote in bootcamp. 
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
